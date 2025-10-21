@@ -1,0 +1,20 @@
+{
+  "name": "food-share",
+  "version": "1.0.0",
+  "description": "Perfect — here’s the **entire README**, cleanly formatted in one single block you can **copy in one go** and paste into your project root as `README.md`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realsule/food-share.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realsule/food-share/issues"
+  },
+  "homepage": "https://github.com/realsule/food-share#readme"
+}
