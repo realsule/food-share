@@ -138,10 +138,10 @@ Then go to GitHub → open a **Pull Request** into `dev`.
 
 | Area                  | Developer  | Description                                         |
 | --------------------- | ---------- | --------------------------------------------------- |
-| **Frontend Lead**     | Musa       | Set up pages, routing, API integration              |
+| **Frontend Lead**     | Team lead  | Set up pages, routing, API integration              |
 | **Backend / API**     | Teammate 1 | Manage JSON Server, seed data, mock endpoints       |
 | **Auth & Users**      | Teammate 2 | Implement login/signup (Firebase or JWT mock)       |
-| **UI / UX & Styling** | Teammate 3 | Beautify components, add responsiveness, animations |
+| **UI / UX & Styling** | Musa       | Beautify components, add responsiveness, animations |
 
 ---
 
